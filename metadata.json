@@ -1,0 +1,38 @@
+{
+  "name": "ph0b1us-fastfetch",
+  "version": "0.1.0",
+  "author": "ph0b1us",
+  "summary": "",
+  "license": "GPL-2.0-or-later",
+  "source": "",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "10",
+        "11",
+        "12"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "18.04",
+        "20.04",
+        "22.04"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 7.24 < 9.0.0"
+    }
+  ],
+  "pdk-version": "3.6.1",
+  "template-url": "pdk-default#3.6.1",
+  "template-ref": "tags/3.6.1-0-gb9426e5"
+}
