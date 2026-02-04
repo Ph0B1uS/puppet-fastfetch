@@ -1,4 +1,5 @@
-# @summary A short summary of the purpose of this class
+# @summary 
+#   This class handles the global config file
 #
 # A description of what this class does
 #
