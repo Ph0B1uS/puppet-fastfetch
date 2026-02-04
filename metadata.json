@@ -2,9 +2,9 @@
   "name": "ph0b1us-fastfetch",
   "version": "0.1.0",
   "author": "ph0b1us",
-  "summary": "",
+  "summary": "A module to install and configure fastfetch",
   "license": "GPL-2.0-or-later",
-  "source": "",
+  "source": "https://github.com/Ph0B1uS/puppet-fastfetch",
   "dependencies": [
 
   ],
@@ -12,17 +12,9 @@
     {
       "operatingsystem": "Debian",
       "operatingsystemrelease": [
-        "10",
         "11",
-        "12"
-      ]
-    },
-    {
-      "operatingsystem": "Ubuntu",
-      "operatingsystemrelease": [
-        "18.04",
-        "20.04",
-        "22.04"
+        "12",
+        "13"
       ]
     }
   ],
